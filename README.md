@@ -22,3 +22,4 @@ They are in the Screenshots folder.
 #### Web App
  - `npm start`
  - Go to http://127.0.0.1:3000/
+ - Make changes in the Maze.js file, where you can change the obstacles and get different paths.
